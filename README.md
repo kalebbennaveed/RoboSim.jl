@@ -1,2 +1,2 @@
 # RoboSim.jl
-A lightwight Julia simulator. 
+A lightweight Julia simulator. 
